@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @granners
 - 👀 I’m interested in Crypto/Python/Finance/Trading/Data Analytics/HFT
-- 🌱 I’m currently learning Python/HFT
+- 🌱 I’m currently learning Python
 - 📫 How to reach me contact me on LinkDin - Reece Granville
 
 <!---
